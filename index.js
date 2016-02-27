@@ -1,3 +1,4 @@
+/* Copyright 2015 Axel Smeets */
 function flipshit(err) {
     if (Math.random() > 0.5)
         preflip(err)
