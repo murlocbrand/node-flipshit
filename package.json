@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/murlocbrand/node-flipshit.git"
+    "url": "https://github.com/murlocbrand/node-flipshit.git"
   },
   "keywords": [
     "flippin' out",
