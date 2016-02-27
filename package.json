@@ -1,0 +1,28 @@
+{
+  "name": "node-flipshit",
+  "version": "1.0.0",
+  "description": "flip tables when in need",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murlocbrand/node-flipshit.git"
+  },
+  "keywords": [
+    "flippin' out",
+    "rip",
+    "uncaught",
+    "exception",
+    "handler",
+    "autf",
+    "d00m"
+  ],
+  "author": "Axel Smeets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murlocbrand/node-flipshit/issues"
+  },
+  "homepage": "https://github.com/murlocbrand/node-flipshit#readme"
+}
