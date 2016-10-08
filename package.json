@@ -4,7 +4,7 @@
   "description": "flip tables when in need",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "istanbul test.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,5 @@
   },
   "homepage": "https://github.com/murlocbrand/node-flipshit#readme",
   "dependencies": {
-    "istanbul": "^0.4.5"
   }
 }
