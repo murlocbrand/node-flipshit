@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/murlocbrand/node-flipshit/issues"
   },
-  "homepage": "https://github.com/murlocbrand/node-flipshit#readme"
+  "homepage": "https://github.com/murlocbrand/node-flipshit#readme",
+  "dependencies": {
+    "istanbul": "^0.4.5"
+  }
 }
